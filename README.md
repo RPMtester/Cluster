@@ -1,2 +1,2 @@
 # Cluster
-Arquivos trabalhados em aula sobre cluster
+Specialization course files about cluster
